@@ -39,7 +39,8 @@ header {
 }
 
 .cta-btn:hover {
-  background: #e07b00;
+  background: #6fc47d;
+  opacity: 0.8;
 }
 
 .hero {
